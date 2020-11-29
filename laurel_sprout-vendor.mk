@@ -4155,20 +4155,20 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.1 \
     com.quicinc.cne.server@2.2 \
     com.quicinc.cne.server@2.3 \
-    QtiTelephonyService \
-    datastatusnotification \
-    embms \
-    imssettings \
-    uceShimService \
-    CNEService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    ConnectionSecurityService \
-    PowerOffAlarm \
-    SSGTelemetryService \
-    TimeService \
-    TrustZoneAccessService \
-    pasrservice \
-    WfdCommon
+#    QtiTelephonyService \
+#    datastatusnotification \
+#    embms \
+#    imssettings \
+#    uceShimService \
+#    CNEService \
+#    WfdService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    ConnectionSecurityService \
+#    PowerOffAlarm \
+#    SSGTelemetryService \
+#    TimeService \
+#    TrustZoneAccessService \
+#    pasrservice \
+#    WfdCommon
